@@ -99,3 +99,14 @@ Check the Path: Ensure the path you added to the Path variable is correct, and i
 Restart your Computer: Sometimes, environment variable changes don't take effect immediately. Restart your computer to ensure that the new path is properly applied.
 
 Test in New Command Prompt: If you still see issues, try opening a new Command Prompt window (after restarting your computer) and running the ffmpeg -version command again.
+
+
+
+
+
+
+https://github.com/user-attachments/assets/29443497-e3c5-416a-8876-79a543b646d3
+
+
+
+
